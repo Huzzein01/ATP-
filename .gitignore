@@ -1,4 +1,5 @@
 server.pid
 qa-*.png
+qa-*.jpg
 
 .vercel

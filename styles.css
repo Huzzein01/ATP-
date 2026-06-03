@@ -460,8 +460,8 @@ p {
   width: 100%;
   aspect-ratio: 0.92;
   border-radius: 8px;
-  background: #f5f2eb;
-  object-fit: cover;
+  background: linear-gradient(145deg, #f6f1e5, #d8d0bf);
+  object-fit: contain;
 }
 
 .catalog-grid .image-card img {
@@ -576,8 +576,8 @@ p {
   max-height: 440px;
   border: 1px solid var(--line);
   border-radius: 8px;
-  background: var(--bone);
-  object-fit: cover;
+  background: linear-gradient(145deg, #f6f1e5, #d8d0bf);
+  object-fit: contain;
 }
 
 .apparel-board {
@@ -762,9 +762,9 @@ figcaption {
   width: 100%;
   aspect-ratio: 0.86;
   border-radius: 8px;
-  background: var(--bone);
+  background: linear-gradient(145deg, #f6f1e5, #d8d0bf);
   box-shadow: var(--shadow);
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .gallery-thumbs {
@@ -788,7 +788,7 @@ figcaption {
   width: 100%;
   aspect-ratio: 1;
   border-radius: 6px;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .product-info {
@@ -882,7 +882,8 @@ figcaption {
   width: 100%;
   aspect-ratio: 0.82;
   border-radius: 8px;
-  object-fit: cover;
+  background: linear-gradient(145deg, #f6f1e5, #d8d0bf);
+  object-fit: contain;
 }
 
 .process-grid,
@@ -908,7 +909,8 @@ figcaption {
   width: 100%;
   aspect-ratio: 0.92;
   border-radius: 8px;
-  object-fit: cover;
+  background: linear-gradient(145deg, #f6f1e5, #d8d0bf);
+  object-fit: contain;
 }
 
 .colorway-grid {
